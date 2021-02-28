@@ -1,0 +1,461 @@
+{
+  "nhits": 385,
+  "parameters": {
+    "dataset": "points-verts-de-ladeps",
+    "timezone": "UTC",
+    "q": "province: Li\u00e8ge",
+    "rows": 10,
+    "start": 0,
+    "format": "json"
+  },
+  "records": [
+    {
+      "datasetid": "points-verts-de-ladeps",
+      "recordid": "321663c14ea4d5c618527cc7f3a8471477a68f79",
+      "fields": {
+        "velo": "Non",
+        "activite": "Marche",
+        "orientation": "Non",
+        "pmr": "Oui",
+        "ndeg_pv": "L185",
+        "ravitaillement": "Non",
+        "groupement": "Association de Parents de l'\u00e9cole Saint-Martin",
+        "balade_guidee": "Non",
+        "entite": "Wanze",
+        "bewapp": "Non",
+        "id": 16067,
+        "15km": "Oui",
+        "vtt": "Non",
+        "latitude": "50.55088989999999",
+        "ign": "48/2",
+        "localite": "WANZE",
+        "province": "Li\u00e8ge",
+        "nom": "Weyne",
+        "statut": "OK",
+        "lieu_de_rendez_vous": "\u00c9cole Saint-Martin, Thier de Messe 4",
+        "poussettes": "Oui",
+        "infos_rendez_vous": "\u00c0 c\u00f4t\u00e9 de l'\u00e9glise",
+        "date": "2021-12-12",
+        "prenom": "Steve",
+        "geopoint": [
+          50.55088989999999,
+          5.2363104
+        ],
+        "longitude": "5.2363104",
+        "10km": "Non",
+        "gsm": "0479 348 941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2363104,
+          50.55088989999999
+        ]
+      },
+      "record_timestamp": "2021-02-12T07:06:18.374000+00:00"
+    },
+    {
+      "datasetid": "points-verts-de-ladeps",
+      "recordid": "339bd65ffebdc5dbfa8574591c49410011233d22",
+      "fields": {
+        "velo": "Non",
+        "activite": "Marche",
+        "orientation": "Non",
+        "pmr": "Non",
+        "ndeg_pv": "L084",
+        "ravitaillement": "Non",
+        "gare": "Gare d'Hamoir \u00e0 350m.",
+        "groupement": "Combattons Ensemble La Leuc\u00e9mie",
+        "balade_guidee": "Non",
+        "entite": "Hamoir",
+        "bewapp": "Non",
+        "id": 16037,
+        "15km": "Oui",
+        "vtt": "Non",
+        "latitude": "50.4243509",
+        "ign": "49/5",
+        "localite": "HAMOIR",
+        "province": "Li\u00e8ge",
+        "nom": "De Gand",
+        "statut": "OK",
+        "lieu_de_rendez_vous": "Salle annexe du hall omnisports, rue du Moulin 11B",
+        "poussettes": "Non",
+        "date": "2021-11-21",
+        "prenom": "St\u00e9phanie",
+        "geopoint": [
+          50.4243509,
+          5.5345214
+        ],
+        "longitude": "5.5345214",
+        "10km": "Non",
+        "gsm": "0486 898 921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5345214,
+          50.4243509
+        ]
+      },
+      "record_timestamp": "2021-02-12T07:06:20.913000+00:00"
+    },
+    {
+      "datasetid": "points-verts-de-ladeps",
+      "recordid": "0f4fafe6d3ab553cb7cede49f6414cfa95b56e4c",
+      "fields": {
+        "velo": "Oui",
+        "activite": "Marche",
+        "orientation": "Non",
+        "pmr": "Oui",
+        "ndeg_pv": "L048",
+        "ravitaillement": "Non",
+        "groupement": "Sauvegarde, entretien et promotion du site de l'ancienne \u00c9glise de Lincent asbl",
+        "balade_guidee": "Oui",
+        "entite": "Lincent",
+        "bewapp": "Non",
+        "id": 15669,
+        "15km": "Oui",
+        "vtt": "Oui",
+        "latitude": "50.7220667",
+        "ign": "41/1",
+        "localite": "LINCENT",
+        "province": "Li\u00e8ge",
+        "nom": "Craninx",
+        "statut": "OK",
+        "lieu_de_rendez_vous": "Rue de la Fontaine 8. Balade guid\u00e9e Nature \u00e0 10h00.",
+        "poussettes": "Oui",
+        "infos_rendez_vous": "Ruines \u00e9glise du XII \u00e8me.",
+        "date": "2021-06-27",
+        "prenom": "Jean-Louis",
+        "geopoint": [
+          50.7220667,
+          5.0221445
+        ],
+        "longitude": "5.0221445",
+        "10km": "Non",
+        "gsm": "0477 542 538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0221445,
+          50.7220667
+        ]
+      },
+      "record_timestamp": "2021-02-12T07:06:53.834000+00:00"
+    },
+    {
+      "datasetid": "points-verts-de-ladeps",
+      "recordid": "75912a8207084157acb424be519eb5d31be701db",
+      "fields": {
+        "velo": "Non",
+        "activite": "Marche",
+        "orientation": "Non",
+        "pmr": "Non",
+        "ndeg_pv": "L188",
+        "ravitaillement": "Non",
+        "gare": "TEC 94 : Li\u00e8ge-Warz\u00e9e, Terwagne Centre.",
+        "groupement": "Comit\u00e9 d'Animation Rurale de Terwagne",
+        "balade_guidee": "Non",
+        "entite": "Clavier",
+        "bewapp": "Non",
+        "id": 15465,
+        "15km": "Oui",
+        "vtt": "Non",
+        "latitude": "50.442866",
+        "ign": "48/8",
+        "localite": "TERWAGNE",
+        "province": "Li\u00e8ge",
+        "nom": "Dethier",
+        "statut": "OK",
+        "lieu_de_rendez_vous": "Salle Le R\u00f4pa, rue Darimont 4",
+        "poussettes": "Oui",
+        "date": "2021-05-02",
+        "prenom": "Quentin",
+        "geopoint": [
+          50.442866,
+          5.3522465
+        ],
+        "longitude": "5.3522465",
+        "10km": "Non",
+        "gsm": "0479 481 034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3522465,
+          50.442866
+        ]
+      },
+      "record_timestamp": "2021-02-12T07:07:11.381000+00:00"
+    },
+    {
+      "datasetid": "points-verts-de-ladeps",
+      "recordid": "0f5812d5d1db59eb8d53f5241a99c16f24bad7d5",
+      "fields": {
+        "velo": "Non",
+        "activite": "Marche",
+        "orientation": "Non",
+        "pmr": "Non",
+        "ndeg_pv": "L069",
+        "ravitaillement": "Non",
+        "gare": "Gare de Comblain-la-Tour \u00e0 400m.",
+        "groupement": "Syndicat d'initiative",
+        "balade_guidee": "Non",
+        "entite": "Hamoir",
+        "bewapp": "Non",
+        "id": 15458,
+        "15km": "Oui",
+        "vtt": "Non",
+        "latitude": "50.4562876",
+        "ign": "49/5",
+        "localite": "COMBLAIN-LA-TOUR",
+        "province": "Li\u00e8ge",
+        "nom": "Darville",
+        "statut": "OK",
+        "lieu_de_rendez_vous": "Parc Biron, rue du Bo\u00eb 10",
+        "poussettes": "Non",
+        "date": "2021-05-02",
+        "prenom": "Sophie",
+        "geopoint": [
+          50.4562876,
+          5.569774499999999
+        ],
+        "longitude": "5.569774499999999",
+        "10km": "Non",
+        "gsm": "0475 644 097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.569774499999999,
+          50.4562876
+        ]
+      },
+      "record_timestamp": "2021-02-12T07:07:11.954000+00:00"
+    },
+    {
+      "datasetid": "points-verts-de-ladeps",
+      "recordid": "d97fbcf804027b914f0a9c393ef4391e9b06030f",
+      "fields": {
+        "velo": "Non",
+        "activite": "Marche",
+        "orientation": "Non",
+        "pmr": "Non",
+        "ndeg_pv": "L170",
+        "ravitaillement": "Non",
+        "groupement": "Comit\u00e9 scolaire de Fontin",
+        "balade_guidee": "Non",
+        "entite": "Esneux",
+        "bewapp": "Non",
+        "id": 15484,
+        "15km": "Oui",
+        "vtt": "Non",
+        "latitude": "50.5256872",
+        "ign": "49/2",
+        "localite": "FONTIN",
+        "province": "Li\u00e8ge",
+        "nom": "Delbouille",
+        "statut": "OK",
+        "lieu_de_rendez_vous": "Chemin de la Haze 16",
+        "poussettes": "Non",
+        "date": "2021-05-09",
+        "prenom": "Isabelle",
+        "geopoint": [
+          50.5256872,
+          5.5903792
+        ],
+        "longitude": "5.5903792",
+        "10km": "Non",
+        "gsm": "0478 575 356"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5903792,
+          50.5256872
+        ]
+      },
+      "record_timestamp": "2021-02-12T07:07:09.754000+00:00"
+    },
+    {
+      "datasetid": "points-verts-de-ladeps",
+      "recordid": "97bb2b02e294459686c4a254af8e3389ea2c2b25",
+      "fields": {
+        "velo": "Non",
+        "activite": "Marche",
+        "orientation": "Non",
+        "pmr": "Non",
+        "ndeg_pv": "L101",
+        "ravitaillement": "Non",
+        "groupement": "L'Alliance asbl",
+        "balade_guidee": "Non",
+        "entite": "Comblain-au-Pont",
+        "bewapp": "Non",
+        "id": 15252,
+        "15km": "Oui",
+        "vtt": "Non",
+        "latitude": "50.47353",
+        "ign": "49/2",
+        "localite": "ONEUX",
+        "province": "Li\u00e8ge",
+        "nom": "Paulus",
+        "statut": "OK",
+        "lieu_de_rendez_vous": "Salle l'Alliance, Chienrue 38",
+        "poussettes": "Non",
+        "date": "2021-03-07",
+        "prenom": "Jean-Luc",
+        "geopoint": [
+          50.47353,
+          5.5972835
+        ],
+        "longitude": "5.5972835",
+        "10km": "Non",
+        "gsm": "0473 921 056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5972835,
+          50.47353
+        ]
+      },
+      "record_timestamp": "2021-02-12T07:07:31.854000+00:00"
+    },
+    {
+      "datasetid": "points-verts-de-ladeps",
+      "recordid": "6813a358a22e9853690f5412d250fa23cd549464",
+      "fields": {
+        "velo": "Non",
+        "activite": "Marche",
+        "orientation": "Non",
+        "pmr": "Non",
+        "ndeg_pv": "L507",
+        "ravitaillement": "Non",
+        "groupement": "REV Li\u00e8ge",
+        "balade_guidee": "Non",
+        "entite": "P\u00e9pinster",
+        "bewapp": "Non",
+        "id": 15067,
+        "15km": "Oui",
+        "vtt": "Non",
+        "latitude": "50.5750234",
+        "ign": "42/8",
+        "localite": "CORNESSE",
+        "province": "Li\u00e8ge",
+        "nom": "Detrembleur",
+        "statut": "OK",
+        "lieu_de_rendez_vous": "Salle des combattants, route de Soiron 20",
+        "poussettes": "Oui",
+        "infos_rendez_vous": "En face de l\u2019\u00e9cole sur la petite place au centre du village / Gare de P\u00e9pinster \u00e0 2200m.",
+        "date": "2021-10-03",
+        "prenom": "Serge",
+        "geopoint": [
+          50.5750234,
+          5.7900996
+        ],
+        "longitude": "5.7900996",
+        "10km": "Non",
+        "gsm": "0468 384 954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7900996,
+          50.5750234
+        ]
+      },
+      "record_timestamp": "2021-02-12T07:07:44.085000+00:00"
+    },
+    {
+      "datasetid": "points-verts-de-ladeps",
+      "recordid": "01171646b7bc108089278de54a99eea07e3adbe6",
+      "fields": {
+        "velo": "Non",
+        "activite": "Marche",
+        "orientation": "Non",
+        "pmr": "Oui",
+        "ndeg_pv": "L504",
+        "ravitaillement": "Non",
+        "gare": "TEC 23 : Pont d'Avroy-Ste-Walburge-Citadelle, Naimette.",
+        "groupement": "Association des parents de Naniot",
+        "balade_guidee": "Non",
+        "entite": "Li\u00e8ge",
+        "bewapp": "Non",
+        "id": 15011,
+        "15km": "Oui",
+        "vtt": "Non",
+        "latitude": "50.653423",
+        "ign": "42/2",
+        "localite": "LI\u00c8GE",
+        "province": "Li\u00e8ge",
+        "nom": "Verjans",
+        "statut": "OK",
+        "lieu_de_rendez_vous": "\u00c9cole Naniot, boulevard Jean Th\u00e9odore Radoux 63",
+        "poussettes": "Oui",
+        "date": "2021-05-23",
+        "prenom": "Gwena\u00eblle",
+        "geopoint": [
+          50.653423,
+          5.5556864
+        ],
+        "longitude": "5.5556864",
+        "10km": "Non",
+        "gsm": "0486 681 300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5556864,
+          50.653423
+        ]
+      },
+      "record_timestamp": "2021-02-12T07:07:44.744000+00:00"
+    },
+    {
+      "datasetid": "points-verts-de-ladeps",
+      "recordid": "4766f17d820819530296c24c7ba79a7688a29395",
+      "fields": {
+        "velo": "Non",
+        "activite": "Marche",
+        "orientation": "Non",
+        "pmr": "Non",
+        "ndeg_pv": "L058",
+        "ravitaillement": "Non",
+        "gare": "Gare de Bierset-Awans \u00e0 900 m. TEC 85 : Li\u00e8ge-Huy, Bierset Village.",
+        "groupement": "Le Foyer asbl",
+        "balade_guidee": "Non",
+        "entite": "Gr\u00e2ce-Hollogne",
+        "bewapp": "Non",
+        "id": 14882,
+        "15km": "Oui",
+        "vtt": "Non",
+        "latitude": "50.6536266",
+        "ign": "42/1",
+        "localite": "BIERSET",
+        "province": "Li\u00e8ge",
+        "nom": "Barbier",
+        "statut": "Annul\u00e9",
+        "lieu_de_rendez_vous": "Avenue de la Gare 186",
+        "poussettes": "Non",
+        "date": "2020-11-29",
+        "prenom": "Louis",
+        "geopoint": [
+          50.6536266,
+          5.447433
+        ],
+        "longitude": "5.447433",
+        "10km": "Non",
+        "gsm": "0495 937 079"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.447433,
+          50.6536266
+        ]
+      },
+      "record_timestamp": "2021-02-12T07:07:45.751000+00:00"
+    }
+  ]
+}
